@@ -14,15 +14,15 @@ Before using this script, make sure you have the following prerequisites install
 1. Clone this repository to your local machine or download the script.
 
 ```
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/MCakacz/SimpleProcessLogger-by-AK4CZ
 ```
 2. Navigate to the repository's directory:
 ```
-cd your-repo
+cd SimpleProcessLogger-by-AK4CZ
 ```
 3. Run the script:
 ```
-python session_monitor.py
+python system_logger.py
 ```
 The script will create a sessions folder if it doesn't exist and log session activity in .log files within that folder.
 ## Output
